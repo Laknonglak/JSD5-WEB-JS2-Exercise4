@@ -5,4 +5,4 @@
 <br>
 <br>
 
-from the image, Can you create an object, please?
+Can you create the object for this diagram and access to all the properties, please 

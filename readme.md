@@ -1,6 +1,7 @@
 ## Exercise4
 
-![Book](https://github.com/Laknonglak/JSD5-WEB-JS2-Exercise4/assets/67027761/91669a65-b07b-4259-a601-d9eab18d97d8) 
+![Book](https://github.com/Laknonglak/JSD5-WEB-JS2-Exercise4/assets/67027761/c9ae93c3-afc7-42e6-9b98-450adb0f1d43)
+
 <br>
 <br>
 
